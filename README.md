@@ -1,3 +1,8 @@
+> **foxnaim** · Быстрый и лёгкий Python-скрейпер, автоматически обучающийся извлекать данные со страниц
+>
+> Готовая основа под клиентский проект. Стек: Python.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # AutoScraper: A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 
 ![img](https://user-images.githubusercontent.com/17881612/91968083-5ee92080-ed29-11ea-82ec-d99ec85367a5.png)
